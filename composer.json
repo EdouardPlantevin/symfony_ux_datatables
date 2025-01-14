@@ -15,12 +15,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Symfony\\UX\\Chartjs\\": "src/"
+            "Symfony\\UX\\DataTables\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Symfony\\UX\\Chartjs\\Tests\\": "tests/"
+            "Symfony\\UX\\DataTables\\Tests\\": "tests/"
         }
     },
     "require": {

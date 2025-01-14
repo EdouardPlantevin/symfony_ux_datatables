@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Model;
+namespace Symfony\UX\DataTables\Model;
 
 class DataTable
 {
